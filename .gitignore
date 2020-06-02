@@ -42,3 +42,7 @@
 
 # VS Code Settings
 *.code-workspace
+
+# Ignore files with my actual functioning code in them
+AVC_robot/core.cpp
+AVC_robot/core.hpp
