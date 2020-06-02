@@ -1,3 +1,3 @@
-LIBS = -lsfml-window  -lsfml-graphics -lsfml-system -lsfml-network 
+LIBS = -lsfml-window  -lsfml-graphics -lsfml-system -lsfml-network
 robot: robot.cpp 
-	g++ robot.cpp -o avc ${LIBS}
+	g++ robot.cpp -o avc ${LIBS} 
